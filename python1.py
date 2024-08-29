@@ -1,0 +1,7 @@
+s1=(10,20,30,4,50)
+s2=(60,70,80,90,100)
+print (s1)
+print (s2)
+print ('pallavi','keerthana')
+print('os is good software')
+print('pallavi is a good candidet')
